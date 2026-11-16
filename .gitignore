@@ -1,0 +1,17 @@
+# Java
+target/
+*.class
+
+# React / Node
+node_modules/
+dist/
+
+# Environment
+.env
+.env.local
+
+# Mac
+.DS_Store
+
+# IDE
+.idea/
